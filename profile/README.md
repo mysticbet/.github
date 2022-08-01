@@ -10,8 +10,8 @@
 
 </div>
 
-<p align="center">
+## Contact us
+
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smartcoder09262gmail.com@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lion_bets_club)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UYRHuQ6v2k)
-</p>
