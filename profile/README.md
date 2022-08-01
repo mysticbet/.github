@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-    Don't forget to join us on Discord and Telegram too...<br />
-    <a align="center" href="https://discord.gg/NCjZKTeW6J"><img alt="Join our Discord community here."
-src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smartcoder09262gmail.com@gmail.com)
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lion_bets_club)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UYRHuQ6v2k)
 </p>
